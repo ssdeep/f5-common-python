@@ -104,7 +104,7 @@ List of Patterns For Contributing Developers
        handling significant inconsistencies in the device interface.)
 
 #. public-nonpublic pairs
-    e.g. 'create' and '_create' XXX add content here.
+    e.g. 'create' and '_create' XXX add content here. foobar
 #. Handle known issues in the device REST server.
     The SDK intends to provide
     a rational interface to consumers that does the right thing.  This means
